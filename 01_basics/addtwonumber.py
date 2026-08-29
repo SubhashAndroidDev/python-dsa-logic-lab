@@ -1,8 +1,8 @@
 
 """Python Program to Add Two Numbers"""
-num1=10
-num2=20
-print("the sum of two numbers is:", num1+num2)
+# num1=10
+# num2=20
+# print("the sum of two numbers is:", num1+num2)
 
 number1=float(input("Enter first number: "))
 number2=float(input("Enter second number: "))
