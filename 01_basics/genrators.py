@@ -1,3 +1,6 @@
+
+"""Python generators are a powerful tool for creating iterators using a memory-efficient approach known as lazy evaluation"""
+
 def my_gen():
     yield 1
     yield 2
