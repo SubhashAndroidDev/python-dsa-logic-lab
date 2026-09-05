@@ -12,4 +12,4 @@ def dict_to_list():
     print("Keys of the dictionary are: ", keys)
     print("Values of the dictionary are: ", values)
 
-dict_to_list()
+dict_to_list() 
