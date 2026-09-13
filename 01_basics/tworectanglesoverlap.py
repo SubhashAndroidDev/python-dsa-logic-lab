@@ -12,7 +12,7 @@ def do_overlap(l1, r1, l2, r2):
     if r1.y > l2.y or r2.y > l1.y:
         return False
 
-    return True
+    return True 
 
 # Driver code
 if __name__ == "__main__":
@@ -24,4 +24,4 @@ if __name__ == "__main__":
     if do_overlap(l1, r1, l2, r2):
         print("Rectangles Overlap")
     else:
-        print("Rectangles Don't Overlap")
+        print("Rectangles Don't Overlap")  
